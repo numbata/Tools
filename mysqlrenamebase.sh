@@ -1,5 +1,9 @@
 #!/bin/sh
 
+#
+# @author Andrei Subbota <subbota@gmail.com>
+# @todo пароль и имя пользователя принимать как параметры
+
 # Параметры соединения с БД
 MYSQL_USER="root"
 MYSQL_PASS=""
